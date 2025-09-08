@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# BlueJ project files (keeping package.bluej for educational value)
+# *.bluej
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio files (if you want to exclude them)
+*.mp3
+*.wav
+*.ogg
+
+# Documentation files (if you want to exclude them)
+*.docx
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+build/
+dist/
+out/
+
+# Java specific
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
